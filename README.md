@@ -2,7 +2,7 @@
 
 I created this script for my Toshiba Chromebook 2 while running crouton because it would run really warm doing simple things like running firefox. And using Chrome OS it wouldnt so even though its probably fine to run it without this i made it just because my electronics are like my babys i treat them very well. Also i made this script to allow you to still be able to play Minecraft whitout the temp going to high keep in mind that is on very low settings.
 
-# What do if you get temp error
+# What to do if you get temp error
 
 If you get an error cant find temp data please open an issue and tell me your temp directory expamples below.
 
