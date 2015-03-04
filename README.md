@@ -1,6 +1,8 @@
-# crouton-thermal-control-script
+# Crouton thermal control script
 
-I created this script for my Toshiba Chromebook 2 while running crouton because it would run really warm doing simple things like running firefox. And using Chrome OS it wouldnt so even though its probably fine to run it without this i made it just because my electronics are like my babys i treat them very well. Also i made this script to allow you to still be able to play Minecraft whitout the temp going to high keep in mind that is on very low settings.
+Default max temp is 51 degrees celsius (125 degrees fahrenheit)<br>
+
+I created this script for my Toshiba Chromebook 2 while running crouton because it would run really warm doing simple things like running firefox. And using Chrome OS it wouldnt so even though its probably fine to run it without this i made it just because my electronics are like my babys i treat them very well. Also this script will be going though lots of changes for the next week until i get it perfect to allow you to play Minecraft without the Chromebook getting super warm or hot.
 
 # What to do if you get temp error
 
