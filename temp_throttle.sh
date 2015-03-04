@@ -19,11 +19,7 @@ err_exit () {
 }
 
 if [ $# -ne 1 ]; then
-	echo "Please supply a maximum desired temperature in Celsius." 1>&2
-	echo "For example:  ${0} 60" 1>&2
-	exit 2
-else
-	MAX_TEMP=$1
+	MAX_TEMP=51
 fi
 
 LOW_TEMP=$((MAX_TEMP - 5))
